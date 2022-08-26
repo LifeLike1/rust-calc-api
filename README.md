@@ -90,8 +90,13 @@ Response body:
 ## References
 
 https://actix.rs/
+
 https://docs.rs/actix-web/latest/actix_web/
+
 https://serde.rs/
+
 https://jeltef.github.io/derive_more/derive_more/
+
 https://docs.rs/vin/latest/vin/
+
 https://docs.rs/chrono/latest/chrono/
